@@ -29,9 +29,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Aldo Mercado
 
-* [Node Server Tutorial]()
-* [Express Tutorial]() - What additional items did you work on?
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/amercado1014/node-server-tutorial)
+* [Express Tutorial](https://github.com/amercado1014/express-tutorial) - All 4
+* [Promise Practice Exercises](https://github.com/amercado1014/promise-practice-exercises)
 * [Palette Picker PWA]()
 * [House of Vars Blog Post]()
 * [Websockets Tutorial]() - What additional items did you work on?
@@ -62,9 +62,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Jonathan Sweet
 
-* [Node Server Tutorial](https://github.com/JSweet314/node-server-tutorial)
-* [Express Tutorial](https://github.com/JSweet314/express-tutorial) - Addtl. challenges 1-3
-* [Promise Practice Exercises](https://github.com/JSweet314/promise-practice-exercises)
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
 * [Palette Picker PWA]()
 * [House of Vars Blog Post]()
 * [Websockets Tutorial]() - What additional items did you work on?
@@ -117,9 +117,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Michael Gatewood
 
-* [Node Server Tutorial](https://github.com/mngatewood/messages)
-* [Express Tutorial](https://github.com/mngatewood/express-tutorial) 1-4
-* [Promise Practice Exercises](https://github.com/mngatewood/promise-practice)
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
 * [Palette Picker PWA]()
 * [House of Vars Blog Post]()
 * [Websockets Tutorial]() - What additional items did you work on?
